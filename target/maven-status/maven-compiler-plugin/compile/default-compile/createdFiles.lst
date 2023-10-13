@@ -1,0 +1,10 @@
+br\com\gilsonmartias\todolist\user\UserController.class
+br\com\gilsonmartias\todolist\utils\Utils.class
+br\com\gilsonmartias\todolist\TodolistApplication.class
+br\com\gilsonmartias\todolist\user\UserModel.class
+br\com\gilsonmartias\todolist\task\TaskController.class
+br\com\gilsonmartias\todolist\task\ITaskRepository.class
+br\com\gilsonmartias\todolist\task\TaskModel.class
+br\com\gilsonmartias\todolist\user\IUserRepository.class
+br\com\gilsonmartias\todolist\filter\FilterTaskAuth.class
+br\com\gilsonmartias\todolist\errors\ExceptionHanclerController.class
